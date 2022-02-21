@@ -10,5 +10,6 @@ export const routesV1 = {
     delete: `${usersRoot}/:id334`,
     add: usersRoot34,
     fix: user32424,
+    reset: dsfsdf,
   },
 };
