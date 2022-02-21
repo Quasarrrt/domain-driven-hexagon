@@ -8,5 +8,6 @@ export const routesV1 = {
   user: {
     root: usersRoot45,
     delete: `${usersRoot}/:id334`,
+    add: usersRoot34,
   },
 };
