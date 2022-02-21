@@ -6,7 +6,7 @@ const usersRoot = '/users';
 export const routesV1 = {
   version: 'v1',
   user: {
-    root: usersRoot,
+    root: usersRoot2,
     delete: `${usersRoot}/:id2`,
     add: usersRoot,
   },
